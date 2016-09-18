@@ -6,7 +6,6 @@ Rails.application.routes.draw do
   get "/content", to: "content#index", as: "home"
 
 
-  get "/content", to: "homes#show", as:"homes"
 
 
 end
