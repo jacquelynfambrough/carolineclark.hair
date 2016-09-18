@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
-  root "home#index"
+  root "content#index"
 
-  get "/home", to: "home#index", as: "home"
- 
+  get "/content", to: "content#index", as: "home"
+
 end
