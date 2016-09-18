@@ -6,5 +6,5 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-Creature.create({name: "Jackie", description: "9 AM client"})
-Creature.create({name: "Will", description: "Lawyer"})
+Content.create({name: "Jackie", description: "9 AM client"})
+Content.create({name: "Will", description: "Lawyer"})
