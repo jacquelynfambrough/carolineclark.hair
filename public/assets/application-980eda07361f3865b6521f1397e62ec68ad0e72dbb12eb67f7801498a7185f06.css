@@ -1,0 +1,358 @@
+/*
+
+        Creating a sprite from following images:
+
+        app/assets/images/sprites/social-share-button/baidu.png (16x16)
+        app/assets/images/sprites/social-share-button/delicious.png (16x16)
+        app/assets/images/sprites/social-share-button/douban.png (16x16)
+        app/assets/images/sprites/social-share-button/email.png (16x16)
+        app/assets/images/sprites/social-share-button/facebook.png (16x16)
+        app/assets/images/sprites/social-share-button/flickr.png (16x16)
+        app/assets/images/sprites/social-share-button/google_bookmark.png (16x16)
+        app/assets/images/sprites/social-share-button/google_plus.png (16x16)
+        app/assets/images/sprites/social-share-button/kaixin001.png (16x16)
+        app/assets/images/sprites/social-share-button/pinterest.png (16x16)
+        app/assets/images/sprites/social-share-button/plurk.png (16x16)
+        app/assets/images/sprites/social-share-button/qq.png (16x16)
+        app/assets/images/sprites/social-share-button/renren.png (16x16)
+        app/assets/images/sprites/social-share-button/tqq.png (16x16)
+        app/assets/images/sprites/social-share-button/tumblr.png (16x16)
+        app/assets/images/sprites/social-share-button/twitter.png (16x16)
+        app/assets/images/sprites/social-share-button/weibo.png (16x16)
+
+        Output files:
+          app/assets/images/sprites/social-share-button.png
+          app/assets/stylesheets/social-share-button.scss
+
+        Output size:
+          80x64
+
+*/
+.social-share-button-baidu {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") 0px 0px no-repeat; }
+
+.social-share-button-delicious {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -16px 0px no-repeat; }
+
+.social-share-button-douban {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") 0px -16px no-repeat; }
+
+.social-share-button-email {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -16px -16px no-repeat; }
+
+.social-share-button-facebook {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -32px 0px no-repeat; }
+
+.social-share-button-flickr {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -32px -16px no-repeat; }
+
+.social-share-button-google_bookmark {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") 0px -32px no-repeat; }
+
+.social-share-button-google_plus {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -16px -32px no-repeat; }
+
+.social-share-button-kaixin001 {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -32px -32px no-repeat; }
+
+.social-share-button-pinterest {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -48px 0px no-repeat; }
+
+.social-share-button-plurk {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -48px -16px no-repeat; }
+
+.social-share-button-qq {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -48px -32px no-repeat; }
+
+.social-share-button-renren {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") 0px -48px no-repeat; }
+
+.social-share-button-tqq {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -16px -48px no-repeat; }
+
+.social-share-button-tumblr {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -32px -48px no-repeat; }
+
+.social-share-button-twitter {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -48px -48px no-repeat; }
+
+.social-share-button-weibo {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("/assets/sprites/social-share-button-01bd4e9a7782620aab986c55abc6ecb9ee88d50bb51f28c2f00fe36d87a0944c.png") -64px 0px no-repeat; }
+
+@media only screen and (-webkit-device-pixel-ratio: 2) {
+  .social-share-button-baidu {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") 0px 0px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-delicious {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -16px 0px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-douban {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") 0px -16px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-email {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -16px -16px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-facebook {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -32px 0px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-flickr {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -32px -16px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-google_bookmark {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") 0px -32px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-google_plus {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -16px -32px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-kaixin001 {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -32px -32px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-pinterest {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -48px 0px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-plurk {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -48px -16px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-qq {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -48px -32px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-renren {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") 0px -48px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-tqq {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -16px -48px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-tumblr {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -32px -48px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-twitter {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -48px -48px no-repeat;
+    background-size: 80px 64px; }
+
+  .social-share-button-weibo {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/sprites/social-share-button@2x-a597120b30fe6ae4ac5b4f0f45f307c0f5519851529b3010a7c584eb3ed186be.png") -64px 0px no-repeat;
+    background-size: 80px 64px; } }
+body {
+  text-align: center; }
+
+.sub {
+  font-size: 20px;
+  font-family: 'Inconsolata', monospace; }
+
+p {
+  font-size: 20px;
+  font-family: 'Inconsolata', monospace; }
+
+.soc {
+  padding-left: 5px;
+  padding-right: 5px; }
+
+img {
+  display: center-block;
+  margin: 0; }
+
+.domain {
+  color: #d08daf; }
+
+.title {
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+  color: #b67797; }
+
+.item {
+  margin: 10px; }
+
+#myCarousel {
+  width: 600px;
+  margin: auto; }
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 70%;
+  margin: auto; }
+
+.carousel-control.left {
+  background: none;
+  color: grey; }
+
+.carousel-control.right {
+  background: none;
+  color: grey; }
+
+.carousel-control.left:hover {
+  background: none;
+  color: #b67797; }
+
+.carousel-control.right:hover {
+  background: none;
+  color: #b67797; }
+
+.carousel-indicators li {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 1px;
+  text-indent: -999px;
+  cursor: pointer;
+  border-radius: 10px; }
+
+a.contact {
+  color: #b67797;
+  background-color: white;
+  border: 2px solid #b67797;
+  font-size: 30px;
+  text-decoration: none;
+  padding: 10px;
+  font-family: 'Arvo', serif; }
+
+a.contact:hover {
+  color: white;
+  font-size: 30px;
+  background-color: #b67797;
+  text-decoration: none;
+  padding: 10px;
+  font-family: 'Arvo', serif; }
+
+.carousel-indicators li:hover {
+  border: 6px solid #b67797; }
+
+a.left.carousel-control {
+  background-image: none; }
+
+a.right.carousel-control {
+  background-image: none; }
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+
+
+ */
+
