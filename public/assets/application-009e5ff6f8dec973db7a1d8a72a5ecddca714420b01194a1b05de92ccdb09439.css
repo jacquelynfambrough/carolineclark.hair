@@ -15,10 +15,10 @@ p {
 
 .soc:hover {
   opacity: 0.5;
-  filter: alpha(opacity=50); }
+  filter: white; }
 
 .social-icons {
-  padding-bottom: 50px; }
+  margin-bottom: 50px; }
 
 img {
   display: center-block;
@@ -29,7 +29,7 @@ img {
 
 .title {
   font-size: 40px;
-  font-family: 'Glegoo', serif;
+  font-family: 'Glegoo', courier;
   color: #b67797; }
 
 .item {
@@ -76,7 +76,7 @@ a.contact {
   font-size: 30px;
   text-decoration: none;
   padding: 10px;
-  font-family: 'Bungee Hairline', cursive; }
+  font-family: 'Bungee Hairline', monospace; }
 
 a.contact:hover {
   color: white;
@@ -84,7 +84,7 @@ a.contact:hover {
   background-color: #b67797;
   text-decoration: none;
   padding: 10px;
-  font-family: 'Bungee Hairline', cursive; }
+  font-family: 'Bungee Hairline', monospace; }
 
 .carousel-indicators li:hover {
   border: 6px solid #b67797; }
